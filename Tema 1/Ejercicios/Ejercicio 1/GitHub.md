@@ -55,3 +55,7 @@ Te llevará a una pestaña en la que puedes poner una **descripción** de la fus
 Ahora con todo **revisado** le damos a ***Merge Pull Request*** para que termine de hacer la fusión.
 
 ![Captura 10](https://raw.githubusercontent.com/githdani/DepliegueAplicacionesWeb/refs/heads/main/Tema%201/Ejercicios/Ejercicio%201/Imagenes%20Git/10.png)
+
+## Conclusión
+
+***GitHub*** es muy útil para guardar **proyectos y compartirlos**, ya sea un trabajo para la empresa o personalmente como portfolio en un *Curriculum Vitae*.
