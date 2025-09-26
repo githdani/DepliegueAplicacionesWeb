@@ -1,1 +1,24 @@
+# Archivos con contraseñas
+.env
+*.key
+*.pem
 
+# Archivos temporales
+*.tmp
+*.cache
+*.lock
+
+# Binarios y compilados
+*.exe
+*.dll
+*.so
+*.o
+*.out
+
+# Configuraciones locales
+.DS_Store
+Thumbs.db
+*.log
+*.config
+.idea/
+.vscode/
