@@ -39,5 +39,8 @@ La configuración de mi ***.gitignore*** y el **por qué** he elegido esos archi
 
 ## Buenas prácticas de seguridad.
 
-* **Ramas protegidas:**
+* **Ramas protegidas:** la rama principal (`main` o `master`) está protegida para evitar que se realicen cambios sin revisión. También puedes crear reglas para restringir la escritura y eliminación de una rama específica. Esto obliga a que todas las modificaciones pasen por un proceso de validación para efectuar el cambio.
 
+* **Revisión de Pull Requests:** toda nueva funcionalidad o corrección debe realizarse en una rama independiente y hacer un ***Pull Request***. Así otra persona del equipo debe revisar y aprobar los cambios antes de fusionarlos. Esto ayuda a detectar errores y vulnerabilidades antes de que se haga el cambio en el proyecto.
+
+* **Copias de seguridad:** dado que el repositorio está en GitHub, se beneficia de la infraestructura de respaldo de la plataforma. Además, se recomienda a los desarrolladores clonar el repositorio en sus equipos locales para tener copias adicionales.
