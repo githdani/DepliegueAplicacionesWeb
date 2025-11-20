@@ -4,3 +4,10 @@
 | ***Doxygen*** | - Muchas opciones: Doxyfile, filtros, diagramas. <br> - Con lo básico puede configurarse rápido. | - Proyectos en C, C++, Python, Fortran, PHP, C#, Java. Útil en proyectos multi-lenguaje. <br> - Se integra en flujos de construcción y CI/CD. | - **HTML**, **LaTeX/PDF**, **RTF**, **man pages**, PostScript, etc. <br> - Diagramas de herencia y colaboración. | - Muy usada en C/C++ y entornos multi-lenguaje. <br> - Comunidad sólida. | - Curva moderada-alta. <br> - Lo básico es sencillo, pero aprovechar todo requiere mucho tiempo. |
 | ***JSDoc*** | - Sintaxis similar a Javadoc. <br> - Se instala con npm y se integra en scripts de build. | - Excelente para proyectos JavaScript y TypeScript. <br> - Integración con npm, bundlers y VSCode. <br> - Menos útil en proyectos multi-lenguaje. | - **HTML** como salida principal. <br> - Soporta Markdown en comentarios. <br> - Plugins/templates permiten ampliar formatos. | - Comunidad muy activa en el ecosistema JS/Node. <br> - Evoluciona rápido, lo que implica cambios en soporte. | - Curva baja-moderada. <br> - Etiquetas básicas fáciles de aprender. <br> - Personalización con templates/plugins requiere más tiempo. |
 
+# Reflexión de uso de Javadoc
+
+El ***Javadoc*** es una práctica fundamental que fomenta la claridad, la organización y la comunicación dentro del desarrollo de software. Documentar obliga al programador a detenerse y analizar qué hace cada clase y método, cuáles son sus parámetros, qué valores devuelve y bajo qué condiciones puede fallar.
+
+Además, este proceso no solo mejora la comprensión del código, sino que también *ayuda a mantener su calidad* a lo largo del tiempo. En proyectos grandes, Javadoc se vuelve una herramienta indispensable, ya que la documentación generada automáticamente permite que otros desarrolladores comprendan la funcionalidad sin tener que leer toda la implementación.
+
+En última instancia, el uso de Javadoc contribuye a crear software más limpio, mantenible y profesional, facilitando el *trabajo en equipo* y evitando confusiones innecesarias en el futuro.
