@@ -1,4 +1,4 @@
-# Diario del Tema 1
+<h1 align="center">Diario Tema 1</h1>
 
 <h2 align="center">Qué he aprendido</h2>
 
