@@ -5,7 +5,7 @@ Para localizar los archivos importantes de **Tomcat** hay que meterse en la carp
 cd /opt/tomcat/conf
 ls -l
 ```
-![Captura 1]()
+![Captura 1](https://github.com/githdani/DepliegueAplicacionesWeb/blob/main/Tema_4/Ejercicios/Ejercicio_2/Imagen/1.png?raw=true)
 
 ---
 
