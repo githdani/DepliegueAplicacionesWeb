@@ -8,8 +8,8 @@ sudo mkdir -p hello/WEB-INF
 sudo nano hello/index.jsp
 ```
 
-![Captura 1]()
-![Captura 2]()
+![Captura 1](https://github.com/githdani/DepliegueAplicacionesWeb/blob/main/Tema_4/Ejercicios/Ejercicio_3/Imagenes/1.png?raw=true)
+![Captura 2](https://github.com/githdani/DepliegueAplicacionesWeb/blob/main/Tema_4/Ejercicios/Ejercicio_3/Imagenes/2.png?raw=true)
 
 - Ahora me muevo a la carpeta **hello** que había creado antes. Una vez dentro ya puedo crear el archivo ***WAR***.
 ```bash
@@ -17,7 +17,7 @@ cd hello
 sudo jar cvf hello.war *
 ```
 
-![Captura 3]()
+![Captura 3](https://github.com/githdani/DepliegueAplicacionesWeb/blob/main/Tema_4/Ejercicios/Ejercicio_3/Imagenes/3.png?raw=true)
 
 ---
 
@@ -30,7 +30,7 @@ cd /opt/tomcat9/webapps/
 ls
 ```
 
-![Captura 4]()
+![Captura 4](https://github.com/githdani/DepliegueAplicacionesWeb/blob/main/Tema_4/Ejercicios/Ejercicio_3/Imagenes/4.png?raw=true)
 
 ---
 
@@ -38,5 +38,4 @@ ls
 
 - Ya con el WAR en la carpeta webapps inicio el servicio Tomcat y en el navegador pongo ***http://localhost:8080/hello***
 
-![Captura 5]()
-![Captura 2]()
+![Captura 5](https://github.com/githdani/DepliegueAplicacionesWeb/blob/main/Tema_4/Ejercicios/Ejercicio_3/Imagenes/5.png?raw=true)
