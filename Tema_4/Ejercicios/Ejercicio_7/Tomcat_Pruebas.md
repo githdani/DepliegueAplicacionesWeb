@@ -1,4 +1,4 @@
-<h1 align="center">Tomcat -Pruebas de funcionamiento</h1>
+<h1 align="center">Tomcat - Pruebas de funcionamiento</h1>
 
 ## Primera prueba de rendimiento.
 
