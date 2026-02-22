@@ -22,7 +22,7 @@
 * [Pruebas en Tomcat](Ejercicios/Ejercicio_7/Tomcat_Pruebas.md)
 
 ## Ejercicio 8: Docker Tomcat
-* [Docker Tomcat](Ejercicios/Ejercicio_2/Docker_Tomcat.md)
+* [Docker Tomcat](Ejercicios/Ejercicio_8/Docker_Tomcat.md)
 
 ## Ejercicio 9: Documentación final Tomcat
-* [Documentación final Tomcat](Ejercicios/Ejercicio_2/Tomcat_DocumentaciónFinal.md)
+* [Documentación final Tomcat](Ejercicios/Ejercicio_9/Tomcat_DocumentaciónFinal.md)
