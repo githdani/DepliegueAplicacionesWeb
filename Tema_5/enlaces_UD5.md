@@ -31,7 +31,7 @@
 * [Filezilla servidor web](Ejercicios/Ejercicio_10/Filezilla_ServidorWeb.md)
 
 ## Ejercicio 11: Filezilla buenas prácticas
-* [Filezilla buenas prácticas](Ejercicios/Ejercicio_10/Filezilla_BuenasPracticas.md)
+* [Filezilla buenas prácticas](Ejercicios/Ejercicio_11/Filezilla_BuenasPracticas.md)
 
-## Ejercicio 11: Filezilla documentación final
-* [Filezilla documentación final](Ejercicios/Ejercicio_10/Filezilla_DocumentacionFinal.md)
+## Ejercicio 12: Filezilla documentación final
+* [Filezilla documentación final](Ejercicios/Ejercicio_12/Filezilla_DocumentacionFinal.md)
